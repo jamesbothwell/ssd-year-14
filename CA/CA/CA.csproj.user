@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPurchaseStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmViewBookings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmWeddingListCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmWeddingListStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmWeddingListPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmWelcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportCustomerDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="CADataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
